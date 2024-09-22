@@ -1,10 +1,11 @@
 ## hi 👋, my name is Alison Pezzott
 
-I've been creating content about Microsoft Power BI on my YouTube channel called Fluente BI
+### about me  
 
+* 🚀  I've been creating content about Microsoft Power BI on my [YouTube channel](http://youtube.com/@fluentebi )
 * 🌍  I'm based in Jundiaí, São Paulo, Brazil
 * ✉️  You can contact me at sending a direct to [my linkedin](https://linkedin.com/in/alisonpezzott)
-* 🚀  I'm currently working on creating content on my [YouTube channel](http://youtube.com/@fluentebi )
+
 
 <a href="https://www.github.com/alisonpezzott" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for-the-badge&color=267ff8&labelColor=1c1917" height="40" /></a>
