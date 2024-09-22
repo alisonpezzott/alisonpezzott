@@ -3,7 +3,7 @@
 ### about me  
 
 * 🚀  I've been creating content about Microsoft Power BI on my [YouTube channel](http://youtube.com/@fluentebi )
-* 🌍  I'm based in Jundiaí, São Paulo, Brazil
+* 🌍  I'm based in Brazil, São Paulo, [Jundiaí](https://maps.app.goo.gl/UbAERrK8c1AFQBDS7)
 * ✉️  You can contact me at sending a direct to [my linkedin](https://linkedin.com/in/alisonpezzott)
 
 
