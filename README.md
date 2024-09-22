@@ -28,8 +28,8 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
 ### my GitHub stats
 
 <div width="100%" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&disable_animations=false&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&card_width=320&langs_count=5&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&disable_animations=false&locale=en&hide_border=true&order=1" height="100%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&langs_count=5&hide_border=true&order=2" height="100%" alt="languages graph"  />
 </div>
 
 ### top repositories
