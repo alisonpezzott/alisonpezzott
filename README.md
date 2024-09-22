@@ -7,7 +7,7 @@ I've been creating content about Microsoft Power BI on my YouTube channel called
 * 🚀  I'm currently working on creating content on my [YouTube channel](http://youtube.com/@fluentebi )
 
 <a href="https://www.github.com/alisonpezzott" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" height="40" /></a>
+src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for-the-badge&color=267ff8&labelColor=1c1917" height="40" /></a>
 
 ### Social Networks
 
@@ -28,15 +28,15 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
 ### My GitHub Stats
 
 <div width="100%" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&title_color=f78166&text_color=ffffff&icon_color=0891b2&bg_color=222d3d&disable_animations=false&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&title_color=f78166&text_color=ffffff&icon_color=0891b2&bg_color=222d3d&card_width=320&langs_count=5&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&title_color=267ff8&text_color=ffffff&icon_color=267ff8&bg_color=151b23&disable_animations=false&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&title_color=267ff8&text_color=ffffff&icon_color=267ff8&bg_color=151b23&card_width=320&langs_count=5&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ### Top Repositories
 
 <div width="100%" align="left">
-  <a href="https://github.com/alisonpezzott/dimensao_calendario_m" align="left"><img align="left" height=150px src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&title_color=f78166&text_color=ffffff&icon_color=0891b2&bg_color=222d3d&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/dimensao_periodos_m" align="right"><img align="right" height=150px src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&title_color=f78166&text_color=ffffff&icon_color=0891b2&bg_color=222d3d&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/dimensao_calendario_m" align="left"><img align="left" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&title_color=267ff8&text_color=ffffff&icon_color=267ff8&bg_color=151b23&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/dimensao_periodos_m" align="right"><img align="right" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&title_color=267ff8&text_color=ffffff&icon_color=267ff8&bg_color=151b23&hide_border=true&locale=en" /></a>
 </div>
 
 
