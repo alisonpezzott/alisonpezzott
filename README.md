@@ -27,24 +27,16 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
 
 ### my GitHub stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&disable_animations=false&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&langs_count=5&hide_border=true&order=2" height="180" alt="languages graph"  />
+<div widht="100%" align="left">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&langs_count=5&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
 </div>
 
 ### top repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m)](https://github.com/alisonpezzott/dimensao_calendario_m)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m)](https://github.com/alisonpezzott/dimensao_periodos_m)
-
-
-<div>
-  <a href="https://github.com/alisonpezzott/dimensao_calendario_m">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/alisonpezzott/dimensao_periodos_m">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&hide_border=true&locale=en" />
-  </a>
+<div widht="100%">
+  <a href="https://github.com/alisonpezzott/dimensao_calendario_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/dimensao_periodos_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&hide_border=true&locale=en" /></a>
 </div>
 
 
