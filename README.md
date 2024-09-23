@@ -36,8 +36,8 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
 ### top repositories
 
 <div widht="100%">
-  <a href="https://github.com/alisonpezzott/dimensao_calendario_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/dimensao_periodos_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&title_color=267ff8&text_color=9198a1&icon_color=267ff8&bg_color=151b23&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/dimensao_calendario_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&title_color=91989f&text_color=91989f&icon_color=ed4a0e&bg_color=20242a&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/dimensao_periodos_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&title_color=91989f&text_color=91989f&icon_color=ed4a0e&bg_color=20242a&hide_border=true&locale=en" /></a>
 </div>
 
 
