@@ -1,5 +1,7 @@
 ## hi 👋, my name is Alison Pezzott
 
+I help professionals become fluent in data analysis with specialized content in Power BI, DAX, and M | Founder of the Fluente BI channel on YouTube
+
 ### about me  
 
 * 🚀  I've been creating content about Microsoft Power BI on my [YouTube channel](http://youtube.com/@fluentebi )
