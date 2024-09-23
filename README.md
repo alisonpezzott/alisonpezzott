@@ -53,6 +53,11 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&title_color=ffffff&icon_color=ed4a0e&bg_color=151b23&text_color=dadde2&langs_count=5&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
 </div>
 
+## Principais Vídeos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 ## Principais Repo's
 
 <div widht="100%">
