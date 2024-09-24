@@ -64,10 +64,14 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
 [![Atualização Incremental SharePoint e OneDrive - ⚠️Leia a descrição!](https://ytcards.demolab.com/?id=MDQbINjsV5E&title=Atualiza%C3%A7%C3%A3o+Incremental+SharePoint+e+OneDrive+-+%E2%9A%A0%EF%B8%8FLeia+a+descri%C3%A7%C3%A3o%21&lang=en&timestamp=1724709606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Atualização Incremental SharePoint e OneDrive - ⚠️Leia a descrição!")](https://www.youtube.com/watch?v=MDQbINjsV5E)
 <!-- END YOUTUBE-CARDS -->
 
-## Lançamentos importantes
+## Repositórios mais populares
 
-[_dCalendario-v6.0.pbix_](https://github.com/alisonpezzott/dcalendario-powerquery/releases/tag/v6.0)  
-[_documentacao-daxstudio_](https://github.com/alisonpezzott/documentacao-daxstudio)
+<div widht="100%">
+  <a href="https://github.com/alisonpezzott/dimensao_calendario_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=151b23&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/dimensao_periodos_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=151b23&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/documentacao-daxstudio"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=documentacao-daxstudio&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=151b23&hide_border=true&locale=en" /></a>
+</div>
+
 
 
 
