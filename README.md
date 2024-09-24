@@ -41,9 +41,6 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   
-  
-  
-  
 </div>
 
 ## Estatísticas
@@ -52,6 +49,15 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=ed4a0e&bg_color=151b23&text_color=dadde2&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&title_color=ffffff&icon_color=ed4a0e&bg_color=151b23&text_color=dadde2&langs_count=5&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
 </div>
+
+## Repositórios mais populares
+
+<div widht="100%">
+  <a href="https://github.com/alisonpezzott/dimensao_calendario_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=151b23&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/dimensao_periodos_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=151b23&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/documentacao-daxstudio"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=documentacao-daxstudio&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=151b23&hide_border=true&locale=en" /></a>
+</div>
+
 
 ## Vídeos mais recentes
 
@@ -64,13 +70,7 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
 [![Atualização Incremental SharePoint e OneDrive - ⚠️Leia a descrição!](https://ytcards.demolab.com/?id=MDQbINjsV5E&title=Atualiza%C3%A7%C3%A3o+Incremental+SharePoint+e+OneDrive+-+%E2%9A%A0%EF%B8%8FLeia+a+descri%C3%A7%C3%A3o%21&lang=en&timestamp=1724709606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Atualização Incremental SharePoint e OneDrive - ⚠️Leia a descrição!")](https://www.youtube.com/watch?v=MDQbINjsV5E)
 <!-- END YOUTUBE-CARDS -->
 
-## Repositórios mais populares
 
-<div widht="100%">
-  <a href="https://github.com/alisonpezzott/dimensao_calendario_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=151b23&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/dimensao_periodos_m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=151b23&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/documentacao-daxstudio"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=documentacao-daxstudio&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=151b23&hide_border=true&locale=en" /></a>
-</div>
 
 
 
