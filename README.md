@@ -69,3 +69,5 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
 [_dCalendario-v6.0.pbix_](https://github.com/alisonpezzott/dcalendario-powerquery/releases/tag/v6.0)  
 [_documentacao-daxstudio_](https://github.com/alisonpezzott/documentacao-daxstudio)
 
+
+
