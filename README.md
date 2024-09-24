@@ -66,6 +66,6 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
 
 ## Lançamentos importantes
 
-[dCalendario-v6.0.pbix](https://github.com/alisonpezzott/dcalendario-powerquery/releases/tag/v6.0)
-[documentacao-dax-studio](https://github.com/alisonpezzott/documentacao-dax-studio)
+[_dCalendario-v6.0.pbix_](https://github.com/alisonpezzott/dcalendario-powerquery/releases/tag/v6.0)  
+[_documentacao-daxstudio_](https://github.com/alisonpezzott/documentacao-daxstudio)
 
