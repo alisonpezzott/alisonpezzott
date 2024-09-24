@@ -68,7 +68,7 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
 
 <div widht="100%">
   <a href="https://github.com/alisonpezzott/dcalendario-powerquery"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dcalendario-powerquery&icon_color=ed4a0e&bg_color=151b23&title_color=ffffff&text_color=dadde2&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/dimensao-periodos-m"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao-periodos-m&icon_color=ed4a0e&bg_color=151b23&title_color=ffffff&text_color=dadde2&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/dperiodos-powerquery"><img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dperiodos-powerquery&icon_color=ed4a0e&bg_color=151b23&title_color=ffffff&text_color=dadde2&hide_border=true&locale=en" /></a>
 </div>
 
 
