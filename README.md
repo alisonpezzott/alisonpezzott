@@ -63,3 +63,7 @@ src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for
 [![Processos de licitação x fornecedores com DAX avançado no Power BI - Um prático estudo de caso](https://ytcards.demolab.com/?id=paKM8I5AydI&title=Processos+de+licita%C3%A7%C3%A3o+x+fornecedores+com+DAX+avan%C3%A7ado+no+Power+BI+-+Um+pr%C3%A1tico+estudo+de+caso&lang=en&timestamp=1725103826&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Processos de licitação x fornecedores com DAX avançado no Power BI - Um prático estudo de caso")](https://www.youtube.com/watch?v=paKM8I5AydI)
 [![Atualização Incremental SharePoint e OneDrive - ⚠️Leia a descrição!](https://ytcards.demolab.com/?id=MDQbINjsV5E&title=Atualiza%C3%A7%C3%A3o+Incremental+SharePoint+e+OneDrive+-+%E2%9A%A0%EF%B8%8FLeia+a+descri%C3%A7%C3%A3o%21&lang=en&timestamp=1724709606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Atualização Incremental SharePoint e OneDrive - ⚠️Leia a descrição!")](https://www.youtube.com/watch?v=MDQbINjsV5E)
 <!-- END YOUTUBE-CARDS -->
+
+## Lançamentos importantes
+
+[dCalendario-v6.0.pbix](https://github.com/alisonpezzott/dcalendario-powerquery/releases/tag/v6.0)
