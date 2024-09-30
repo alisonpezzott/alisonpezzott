@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.github.com/alisonpezzott" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for-the-badge&color=ed4a0e&labelColor=151b23" height="32" /></a>
+  <a href="https://www.github.com/alisonpezzott" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for-the-badge&color=1b63ca&labelColor=151b23" height="32" /></a>
   <a href="https://youtube.com/@fluentebi"        ><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="youtube logo" /></a>
   <a href="https://discord.gg/sJTDvWz9sM"         ><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="discord logo" /></a>
   <a href="https://linkedin.com/in/alisonpezzott" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="linkedin logo" /></a>
@@ -43,25 +43,25 @@
 
 ## Estatísticas
 
-<div widht="100%" align="left">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=ed4a0e&bg_color=00000000&text_color=dadde2&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&title_color=ffffff&icon_color=ed4a0e&bg_color=00000000&text_color=dadde2&langs_count=5&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
+<div>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&bg_color=00000000&langs_count=10&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
 </div>
 
 ## Repositórios mais populares
 
-<div widht="100%" align="left">
-  <a href="https://github.com/alisonpezzott/dimensao_calendario_m"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=00000000&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/dimensao_periodos_m"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=00000000&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/alisonpezzott/documentacao-daxstudio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=documentacao-daxstudio&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=00000000&hide_border=true&locale=en" /></a>
-   <a href="https://github.com/alisonpezzott/youtube-20231120-live-como-evoluir-dax"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=youtube-20231120-live-como-evoluir-dax&title_color=ffffff&text_color=9198a1&icon_color=ed4a0e&bg_color=00000000&hide_border=true&locale=en" /></a>
+<div>
+  <a href="https://github.com/alisonpezzott/dimensao_calendario_m"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&bg_color=00000000&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/dimensao_periodos_m"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&bg_color=00000000&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/documentacao-daxstudio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=documentacao-daxstudio&bg_color=00000000&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/youtube-20231120-live-como-evoluir-dax"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=youtube-20231120-live-como-evoluir-dax&bg_color=00000000&hide_border=true&locale=en" /></a>
 </div>
 
 
 ## Vídeos mais recentes
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Visão por Parâmetros de Campos no Power BI](https://ytcards.demolab.com/?id=QrMedE_mAkM&title=Vis%C3%A3o+por+Par%C3%A2metros+de+Campos+no+Power+BI&lang=en&timestamp=1727278216&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Visão por Parâmetros de Campos no Power BI")](https://www.youtube.com/watch?v=QrMedE_mAkM)
+[![Visão por Parâmetros de Campos no Power BI](https://ytcards.demolab.com/?id=QrMedE_mAkM&title=Vis%C3%A3o+por+Par%C3%A2metros+de+Campos+no+Power+BI&lang=en&timestamp=1727278216&&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Visão por Parâmetros de Campos no Power BI")](https://www.youtube.com/watch?v=QrMedE_mAkM)
 [![Manipulações com textos na linguagem M - Função personalizada para normalizar colunas](https://ytcards.demolab.com/?id=8HNqYC6P2s8&title=Manipula%C3%A7%C3%B5es+com+textos+na+linguagem+M+-+Fun%C3%A7%C3%A3o+personalizada+para+normalizar+colunas&lang=en&timestamp=1726498811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Manipulações com textos na linguagem M - Função personalizada para normalizar colunas")](https://www.youtube.com/watch?v=8HNqYC6P2s8)
 [![DAX Avançado: Consertando o total de um cálculo com o uso correto de SUMX, VAR e SWITCH](https://ytcards.demolab.com/?id=cLjOK-0fb6w&title=DAX+Avan%C3%A7ado%3A+Consertando+o+total+de+um+c%C3%A1lculo+com+o+uso+correto+de+SUMX%2C+VAR+e+SWITCH&lang=en&timestamp=1726182007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DAX Avançado: Consertando o total de um cálculo com o uso correto de SUMX, VAR e SWITCH")](https://www.youtube.com/watch?v=cLjOK-0fb6w)
 [![Custo do produto na data da venda com Power Query](https://ytcards.demolab.com/?id=-vGZyIcMCks&title=Custo+do+produto+na+data+da+venda+com+Power+Query&lang=en&timestamp=1725921715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Custo do produto na data da venda com Power Query")](https://www.youtube.com/watch?v=-vGZyIcMCks)
