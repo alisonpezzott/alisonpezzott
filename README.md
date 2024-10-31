@@ -62,12 +62,12 @@
 ## Vídeos mais recentes
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Conversões de moedas no Power BI](https://ytcards.demolab.com/?id=IeJZQMcXdMM&title=Convers%C3%B5es+de+moedas+no+Power+BI&lang=en&timestamp=1730339440&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Conversões de moedas no Power BI")](https://www.youtube.com/watch?v=IeJZQMcXdMM)
 [![API de cotações do Banco Central no Power BI](https://ytcards.demolab.com/?id=J_LGwbN1Jjk&title=API+de+cota%C3%A7%C3%B5es+do+Banco+Central+no+Power+BI&lang=en&timestamp=1730152506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "API de cotações do Banco Central no Power BI")](https://www.youtube.com/watch?v=J_LGwbN1Jjk)
 [![[Power BI] DRE  - Demonstração do Resultado do Exercício](https://ytcards.demolab.com/?id=tRaMqQleWzc&title=%5BPower+BI%5D+DRE++-+Demonstra%C3%A7%C3%A3o+do+Resultado+do+Exerc%C3%ADcio&lang=en&timestamp=1729810200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[Power BI] DRE  - Demonstração do Resultado do Exercício")](https://www.youtube.com/watch?v=tRaMqQleWzc)
 [![[POWERQUERY] List.Accumulate & Table.TransformColumns](https://ytcards.demolab.com/?id=xTSNl__KlMQ&title=%5BPOWERQUERY%5D+List.Accumulate+%26+Table.TransformColumns&lang=en&timestamp=1729693829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[POWERQUERY] List.Accumulate & Table.TransformColumns")](https://www.youtube.com/watch?v=xTSNl__KlMQ)
 [![[POWERQUERY] Caracteres Ocultos](https://ytcards.demolab.com/?id=ihke4TDAD_E&title=%5BPOWERQUERY%5D+Caracteres+Ocultos&lang=en&timestamp=1729643054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[POWERQUERY] Caracteres Ocultos")](https://www.youtube.com/watch?v=ihke4TDAD_E)
 [![[POWERBI] [DAX] Melhor e o pior mês!](https://ytcards.demolab.com/?id=y7t-XauXQgc&title=%5BPOWERBI%5D+%5BDAX%5D+Melhor+e+o+pior+m%C3%AAs%21&lang=en&timestamp=1728745450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[POWERBI] [DAX] Melhor e o pior mês!")](https://www.youtube.com/watch?v=y7t-XauXQgc)
-[![Isto é libertador!](https://ytcards.demolab.com/?id=hVTiRJQxQis&title=Isto+%C3%A9+libertador%21&lang=en&timestamp=1728646827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Isto é libertador!")](https://www.youtube.com/watch?v=hVTiRJQxQis)
 <!-- END YOUTUBE-CARDS -->
 
 
