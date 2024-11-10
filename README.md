@@ -13,7 +13,7 @@
 
 ## Sobre mim
 
-* 🧙‍♂️ Me chamo Alison Pezzott, ajudo profissionais a tornarem-se fluentes em análises de dados com conteúdo especializado em Power BI
+* 🧙‍♂️ Me chamo Alison Pezzott, ajudo profissionais a tornarem-se fluentes em análises de dados com conteúdo especializado em Power BI.
 * 🚀 Sou produtor de conteúdo para o [canal Fluente BI no YouTube](http://youtube.com/@fluentebi )
 * 🌍 Estou situado em [Jundiaí, São Paulo, Brasil](https://maps.app.goo.gl/UbAERrK8c1AFQBDS7)
 
