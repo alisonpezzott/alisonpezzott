@@ -54,7 +54,9 @@
   <a href="https://github.com/alisonpezzott/dimensao_calendario_m"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&bg_color=00000000&hide_border=true&locale=en" /></a>
   <a href="https://github.com/alisonpezzott/dimensao_periodos_m"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_periodos_m&bg_color=00000000&hide_border=true&locale=en" /></a>
   <a href="https://github.com/alisonpezzott/dcalendario-fiscal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dcalendario-fiscal&bg_color=00000000&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/calendario_fabric_lakehouse"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendario_fabric_lakehouse&bg_color=00000000&hide_border=true&locale=en" /></a>
   <a href="https://github.com/alisonpezzott/documentacao-daxstudio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=documentacao-daxstudio&bg_color=00000000&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/dimensao-horas"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao-horas&bg_color=00000000&hide_border=true&locale=en" /></a>
   <a href="https://github.com/alisonpezzott/youtube-20231120-live-como-evoluir-dax"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=youtube-20231120-live-como-evoluir-dax&bg_color=00000000&hide_border=true&locale=en" /></a>
 </div>
 
