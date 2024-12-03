@@ -11,13 +11,13 @@
   <a href="https://t.me/fluentebi"                        ><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="telegram logo"  /></a>
 </div>
 
-## Sobre mim
+## About Me
 
-* 🧙‍♂️ Me chamo Alison Pezzott, meu objetivo é ajudar você a falar a língua dos dados.
-* 🚀 Sou produtor de conteúdo para o [canal Fluente BI no YouTube](http://youtube.com/@fluentebi )
-* 🌍 Estou situado em [Jundiaí, São Paulo, Brasil](https://maps.app.goo.gl/UbAERrK8c1AFQBDS7)
+* 🧙‍♂️ My name is Alison Pezzott, mu purpose is to help you to speak the data language.
+* 🚀 I am content creator for the [channel Fluente BI in YouTube](http://youtube.com/@fluentebi )
+* 🌍 I live in [Jundiaí, São Paulo, Brasil](https://maps.app.goo.gl/UbAERrK8c1AFQBDS7)
 
-## Tecnologias
+## Technologies
 
 <div align="left">
   <a href="https://www.microsoft.com/en-usr/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/powerbi.png"  width="36" height="36" alt="Microsoft Power BI" /></a>
@@ -41,14 +41,14 @@
   
 </div>
 
-## Estatísticas
+## Statistics
 
 <div>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&bg_color=00000000&langs_count=10&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
 </div>
 
-## Repositórios mais populares
+## Popular Repositories
 
 <div>
   <a href="https://github.com/alisonpezzott/dimensao_calendario_m"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=dimensao_calendario_m&bg_color=00000000&hide_border=true&locale=en" /></a>
@@ -61,7 +61,7 @@
 </div>
 
 
-## Vídeos mais recentes
+## Recent Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Calendário no Lakehouse Fabric com Notebook Spark](https://ytcards.demolab.com/?id=iTci-AxQBtg&title=Calend%C3%A1rio+no+Lakehouse+Fabric+com+Notebook+Spark&lang=en&timestamp=1732572020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Calendário no Lakehouse Fabric com Notebook Spark")](https://www.youtube.com/watch?v=iTci-AxQBtg)
