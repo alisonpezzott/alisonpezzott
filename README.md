@@ -1,5 +1,5 @@
 <div align="center" width="100%">
-  <a href="https://github.com/alisonpezzott"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/banner-github-alisonpezzott-v4.png" alt="banner-github-alisonpezzott-v4"/></a>
+  <a href="https://github.com/alisonpezzott"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/banner-github-alisonpezzott-v4.png" alt="banner-github-alisonpezzott-v4"/></a>
 </div>
 
 <div align="center">
