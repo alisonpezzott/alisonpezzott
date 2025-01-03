@@ -1,6 +1,9 @@
-<div align="center" width="100%">
-  <a href="https://github.com/alisonpezzott"><img src="https://github.com/alisonpezzott/alisonpezzott/blob/main/assets/banner-github-alisonpezzott-v6.png" alt="banner-github-alisonpezzott-v6"/></a>
-</div>
+## About Me
+
+* 🧙‍♂️ My name is Alison Pezzott, mu purpose is to help you to speak the data language.
+* 🚀 I am content creator for the [channel Fluente BI in YouTube](http://youtube.com/@fluentebi )
+* 🌍 I live in [Jundiaí, São Paulo, Brasil](https://maps.app.goo.gl/UbAERrK8c1AFQBDS7)
+
 
 <div align="center">
   <a href="https://www.github.com/alisonpezzott" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for-the-badge&color=1b63ca&labelColor=151b23" height="32" /></a>
@@ -10,12 +13,6 @@
   <a href="https://instagram.com/alisonpezzott"   ><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="instagram logo" /></a>
   <a href="https://t.me/fluentebi"                        ><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="telegram logo"  /></a>
 </div>
-
-## About Me
-
-* 🧙‍♂️ My name is Alison Pezzott, mu purpose is to help you to speak the data language.
-* 🚀 I am content creator for the [channel Fluente BI in YouTube](http://youtube.com/@fluentebi )
-* 🌍 I live in [Jundiaí, São Paulo, Brasil](https://maps.app.goo.gl/UbAERrK8c1AFQBDS7)
 
 ## Technologies
 
