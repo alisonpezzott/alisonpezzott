@@ -53,6 +53,8 @@
   <a href="https://github.com/alisonpezzott/youtube-20231120-live-como-evoluir-dax"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=youtube-20231120-live-como-evoluir-dax&bg_color=00000000&hide_border=true&locale=en" /></a>
 </div>
 
+## Gists
+[Visit my snippets!](https://gist.github.com/alisonpezzott) 
 
 ## Recent Videos
 
