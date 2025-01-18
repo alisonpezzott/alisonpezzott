@@ -1,17 +1,17 @@
 ## About Me
 
 * 🧙‍♂️ My name is Alison Pezzott, mu purpose is to help you to speak the data language.
-* 🚀 I am content creator for the [channel Fluente BI in YouTube](http://youtube.com/@fluentebi )
+* 🚀 I am content creator for the [YouTube](http://youtube.com/@alisonpezzott)
 * 🌍 I live in [Jundiaí, São Paulo, Brasil](https://maps.app.goo.gl/UbAERrK8c1AFQBDS7)
 
 
 <div align="center">
   <a href="https://www.github.com/alisonpezzott" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/alisonpezzott?logo=github&style=for-the-badge&color=1b63ca&labelColor=151b23" height="32" /></a>
-  <a href="https://youtube.com/@fluentebi"        ><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="youtube logo" /></a>
+  <a href="https://youtube.com/@alisonpezzott"        ><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="youtube logo" /></a>
   <a href="https://discord.gg/sJTDvWz9sM"         ><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="discord logo" /></a>
   <a href="https://linkedin.com/in/alisonpezzott" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="linkedin logo" /></a>
   <a href="https://instagram.com/alisonpezzott"   ><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="instagram logo" /></a>
-  <a href="https://t.me/fluentebi"                        ><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="telegram logo"  /></a>
+  <a href="https://t.me/alisonpezzott"                        ><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="telegram logo"  /></a>
 </div>
 
 ## Technologies
