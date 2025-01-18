@@ -1,8 +1,8 @@
 ## About Me
 
-* 🧙‍♂️ My name is Alison Pezzott, mu purpose is to help you to speak the data language.
-* 🚀 I am content creator for the [YouTube](http://youtube.com/@alisonpezzott)
-* 🌍 I live in [Jundiaí, São Paulo, Brasil](https://maps.app.goo.gl/UbAERrK8c1AFQBDS7)
+* 🧙‍♂️ My name is Alison Pezzott.
+* 🚀 I am content creator for the [YouTube.](http://youtube.com/@alisonpezzott)
+* 🌍 I live in [Jundiaí, São Paulo, Brasil.](https://maps.app.goo.gl/UbAERrK8c1AFQBDS7)
 
 
 <div align="center">
