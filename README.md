@@ -49,6 +49,8 @@
 
 <div>
   <a href="https://github.com/alisonpezzott/calendar_periods_time_tables_power_bi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendar_periods_time_tables_power_bi&bg_color=00000000&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/contribuicoes-comunidade"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=contribuicoes-comunidade&bg_color=00000000&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/alisonpezzott/tmdl-calendario"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=tmdl-calendario&bg_color=00000000&hide_border=true&locale=en" /></a>  
   <a href="https://github.com/alisonpezzott/documentacao-daxstudio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=documentacao-daxstudio&bg_color=00000000&hide_border=true&locale=en" /></a>
   <a href="https://github.com/alisonpezzott/youtube-20231120-live-como-evoluir-dax"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=youtube-20231120-live-como-evoluir-dax&bg_color=00000000&hide_border=true&locale=en" /></a>
 </div>
