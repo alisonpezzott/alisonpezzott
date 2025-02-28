@@ -60,6 +60,8 @@
 
 ## Recent Videos
 
+[![GitHub Readme YouTube Cards](https://github.com/alisonpezzott/alisonpezzott/actions/workflows/youtube-cards.yml/badge.svg)](https://github.com/alisonpezzott/alisonpezzott/actions/workflows/youtube-cards.yml)
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![🚀 CI/CD com Microsoft Fabric na prática | AzureDevOps | YAML | Fabric REST APIs](https://ytcards.demolab.com/?id=KiQYkk7_lis&title=%F0%9F%9A%80+CI%2FCD+com+Microsoft+Fabric+na+pr%C3%A1tica+%7C+AzureDevOps+%7C+YAML+%7C+Fabric+REST+APIs&lang=en&timestamp=1740352263&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🚀 CI/CD com Microsoft Fabric na prática | AzureDevOps | YAML | Fabric REST APIs")](https://www.youtube.com/watch?v=KiQYkk7_lis)
 [![Dias entre vendas no Power BI com DAX Avançado](https://ytcards.demolab.com/?id=1dhg2yyiEOA&title=Dias+entre+vendas+no+Power+BI+com+DAX+Avan%C3%A7ado&lang=en&timestamp=1738709987&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dias entre vendas no Power BI com DAX Avançado")](https://www.youtube.com/watch?v=1dhg2yyiEOA)
