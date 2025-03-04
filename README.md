@@ -7,14 +7,6 @@
   <a href="https://t.me/alisonpezzott"                        ><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height=32 alt="telegram logo"  /></a>
 </div>
 
-## About Me
-
-🚀 Microsoft Fabric and Power BI Expert | MCT | Data Enthusiast
-Building scalable solutions with Microsoft Fabric and Power BI, using DAX, M and Python.  
-Passionate about automation, performance, and community-driven learning.  
-
-
-
 ## Recent Videos
 
 [![GitHub Readme YouTube Cards](https://github.com/alisonpezzott/alisonpezzott/actions/workflows/youtube-cards.yml/badge.svg)](https://github.com/alisonpezzott/alisonpezzott/actions/workflows/youtube-cards.yml)
