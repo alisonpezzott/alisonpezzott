@@ -17,5 +17,4 @@ jobs:
         with:
           channel_id: UCst_4Wi9DkGAc28uEPlHHHw
           max_videos: 6
-          max_title_lines: 1
-          card_width: 128
+          max_title_lines: 2
