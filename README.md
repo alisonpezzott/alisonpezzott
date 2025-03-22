@@ -1,9 +1,37 @@
-[![YouTube subscribers](https://img.shields.io/youtube/channel/subscribers/UCst_4Wi9DkGAc28uEPlHHHw?style=flat&logo=youtube&logoColor=ff0000&colorA=ffffff&colorB=282828)](https://www.youtube.com/@alisonpezzott?sub_confirmation=1)
-[![GitHub followers](https://img.shields.io/github/followers/alisonpezzott?style=flat&logo=github&logoColor=ffffff&colorA=282828&colorB=bffe28)](https://github.com/alisonpezzott)
+![banner](./assets/banner.png)  
+
+[![YouTube subscribers](https://img.shields.io/youtube/channel/subscribers/UCst_4Wi9DkGAc28uEPlHHHw?style=flat&logo=youtube&logoColor=ff0000&colorA=2E3440&colorB=FFFFFF)](https://www.youtube.com/@alisonpezzott?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/alisonpezzott?style=flat&logo=github&logoColor=ffffff&colorA=2E3440&colorB=FFFFFF)](https://github.com/alisonpezzott)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/alisonpezzott)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/sJTDvWz9sM)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alisonpezzott)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alisonpezzott)  
+
+
+### About me  
+
+🪐 I live in Jundiaí, São Paulo, Brazil.  
+🚀 My mission is to democratize knowledge on Microsoft Fabric and Power BI with simplicity, depth and didactics, sharing practical, real-life solutions.  
+
+### Tools  
+
+![Microsoft Fabric](./assets/fabric.png)
+![Microsoft Power BI](./assets/powerbi.png)
+![SQL](./assets/sql-server.png)
+![Python](./assets/python.png)
+![Excel](./assets/excel.png)
+![Git](./assets/Git-Icon-1788C.png)
+![GitHub](./assets/github.png)
+![Azure DevOps](./assets/AzureDevOps.png)
+![Tabular Editor](./assets/tabular-editor.png)
+![DAX Studio](./assets/dax-studio.png)  
+
+### My stats  
+
+<div widht="100%" align="left">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=nord&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&theme=nord&langs_count=5&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
+</div>  
 
 
 ### My last videos  
