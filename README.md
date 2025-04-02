@@ -5,7 +5,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/alisonpezzott)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alisonpezzott)  
 
-
 ### About me  
 
 🪐 I live in Jundiaí, São Paulo, Brazil.  
@@ -18,9 +17,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=true&layout=compact&theme=nord&langs_count=10&hide_border=true&order=2&hide=roff,Batchfile&card_width=800" 
     alt="languages graph"
   />
-</div>
-
-
+</div>  
 
 ### My last videos  
 
@@ -32,10 +29,3 @@
 [![[POWER BI | DAX] Últimos 12 meses pelo segmentador com DAX no Power BI](https://ytcards.demolab.com/?id=DWlSxC3AbH8&title=%5BPOWER+BI+%7C+DAX%5D+%C3%9Altimos+12+meses+pelo+segmentador+com+DAX+no+Power+BI&lang=en&timestamp=1742581078&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "[POWER BI | DAX] Últimos 12 meses pelo segmentador com DAX no Power BI")](https://www.youtube.com/watch?v=DWlSxC3AbH8)
 [![[FABRIC | POWER BI] Como conectar múltiplos arquivos PBIP a um único Semantic Model no Power BI](https://ytcards.demolab.com/?id=Rkf9v_M7xoA&title=%5BFABRIC+%7C+POWER+BI%5D+Como+conectar+m%C3%BAltiplos+arquivos+PBIP+a+um+%C3%BAnico+Semantic+Model+no+Power+BI&lang=en&timestamp=1742202036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "[FABRIC | POWER BI] Como conectar múltiplos arquivos PBIP a um único Semantic Model no Power BI")](https://www.youtube.com/watch?v=Rkf9v_M7xoA)
 <!-- END YOUTUBE-CARDS -->
-
-
-### My stats  
-
-
-
-
