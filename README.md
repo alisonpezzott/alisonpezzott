@@ -11,25 +11,15 @@
 🪐 I live in Jundiaí, São Paulo, Brazil.  
 🚀 My mission is to democratize knowledge on Microsoft Fabric and Power BI with simplicity, depth and didactics, sharing practical, real-life solutions.  
 
-### Tools  
+### Most used languages  
 
-![Microsoft Fabric](./assets/fabric.png)
-![Microsoft Power BI](./assets/powerbi.png)
-![SQL](./assets/sql-server.png)
-![Python](./assets/python.png)
-![Excel](./assets/excel.png)
-![Git](./assets/Git-Icon-1788C.png)
-![GitHub](./assets/github.png)
-![Azure DevOps](./assets/AzureDevOps.png)
-![Tabular Editor](./assets/tabular-editor.png)
-![DAX Studio](./assets/dax-studio.png)  
+<div align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=true&layout=compact&theme=nord&langs_count=10&hide_border=true&order=2&hide=roff,Batchfile&card_width=800" 
+    alt="languages graph"
+  />
+</div>
 
-### My stats  
-
-<div widht="100%" align="left">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=nord&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=false&layout=compact&theme=nord&langs_count=5&hide_border=true&order=2&hide=roff"  alt="languages graph"  />
-</div>  
 
 
 ### My last videos  
@@ -42,3 +32,10 @@
 [![[POWER BI | DAX] Últimos 12 meses pelo segmentador com DAX no Power BI](https://ytcards.demolab.com/?id=DWlSxC3AbH8&title=%5BPOWER+BI+%7C+DAX%5D+%C3%9Altimos+12+meses+pelo+segmentador+com+DAX+no+Power+BI&lang=en&timestamp=1742581078&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "[POWER BI | DAX] Últimos 12 meses pelo segmentador com DAX no Power BI")](https://www.youtube.com/watch?v=DWlSxC3AbH8)
 [![[FABRIC | POWER BI] Como conectar múltiplos arquivos PBIP a um único Semantic Model no Power BI](https://ytcards.demolab.com/?id=Rkf9v_M7xoA&title=%5BFABRIC+%7C+POWER+BI%5D+Como+conectar+m%C3%BAltiplos+arquivos+PBIP+a+um+%C3%BAnico+Semantic+Model+no+Power+BI&lang=en&timestamp=1742202036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "[FABRIC | POWER BI] Como conectar múltiplos arquivos PBIP a um único Semantic Model no Power BI")](https://www.youtube.com/watch?v=Rkf9v_M7xoA)
 <!-- END YOUTUBE-CARDS -->
+
+
+### My stats  
+
+
+
+
