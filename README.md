@@ -12,27 +12,12 @@
   <a href="https://learn.microsoft.com/en-us/users/alisonpezzott-4199/transcript" target="_blank" rel="noreferrer"><img src="assets/mct.png"  width="80" height="80" alt="Microsoft Certified Trainer" /></a>
 </div>
 
-> I'm a Brazilian data professional passionate about Microsoft technologies, data engineering and analytics. My mission is to democratize knowledge about Microsoft Fabric and Power BI with simplicity, depth, and clarity, sharing practical and real-world solutions.
-
-
-## 🛠️ My Toolbox
-
-<div align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer"><img src="assets/fabric.png"  width="36" height="36" alt="Microsoft Fabric" /></a>
-  <a href="https://www.microsoft.com/en-usr/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="assets/powerbi.png"  width="36" height="36" alt="Microsoft Power BI" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="assets/python.png" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="assets/sql.png"  width="36" height="36" alt="SQL" /></a>
-  <a href="https://www.git-scm.com" target="_blank" rel="noreferrer"><img src="assets/git.png"  width="36" height="36" alt="Git" /></a>
-  <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="assets/github.png"  width="36" height="36" alt="GitHub" /></a>
-  <a href="https://www.dev.azure.com/" target="_blank" rel="noreferrer"><img src="assets/ado.png"  width="36" height="36" alt="Azure DevOps" /></a>
-  <a href="https://portal.azure.com" target="_blank" rel="noreferrer"><img src="assets/azure.png"  width="36" height="36" alt="Microsoft Azure" /></a>
-</div>
-
+> ### I'm a Brazilian data professional passionate about Microsoft technologies, data engineering and analytics. My mission is to democratize knowledge about Microsoft Fabric and Power BI with simplicity, depth, and clarity, sharing practical and real-world solutions.
  
 ## 📊 My Stats  
 
-<div align="left">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_latte&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  
+<div align="left" style="display: flex; flex-direction: row; gap: 10px;">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_latte&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=true&layout=compact&theme=catppuccin_latte&langs_count=10&hide_border=true&order=2&hide=roff,Batchfile&card_width=800" 
