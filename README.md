@@ -1,5 +1,5 @@
-[![YouTube subscribers](https://img.shields.io/youtube/channel/subscribers/UCst_4Wi9DkGAc28uEPlHHHw?style=for-the-badge&logo=youtube&logoColor=ff0000&colorA=fff&colorB=000)](https://www.youtube.com/@alisonpezzott?sub_confirmation=1)
-[![GitHub followers](https://img.shields.io/github/followers/alisonpezzott?style=for-the-badge&logo=github&logoColor=000&colorA=fff&colorB=000)](https://github.com/alisonpezzott)
+[![YouTube subscribers](https://img.shields.io/youtube/channel/subscribers/UCst_4Wi9DkGAc28uEPlHHHw?style=for-the-badge&logo=youtube&logoColor=ff0000&colorA=fff&colorB=3f4a5a)](https://www.youtube.com/@alisonpezzott?sub_confirmation=1)
+[![GitHub followers](https://img.shields.io/github/followers/alisonpezzott?style=for-the-badge&logo=github&logoColor=000&colorA=fff&colorB=3f4a5a)](https://github.com/alisonpezzott)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/alisonpezzott)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/alisonpezzott)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/sJTDvWz9sM)
@@ -17,10 +17,10 @@
 ## 📊 My Stats  
 
 <div align="left" style="display: flex; flex-direction: row; gap: 10px;">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_latte&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=nord&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=true&layout=compact&theme=catppuccin_latte&langs_count=10&hide_border=true&order=2&hide=roff,Batchfile&card_width=800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=true&layout=compact&theme=nord&langs_count=10&hide_border=true&order=2&hide=roff,Batchfile&card_width=800" 
     alt="languages graph"
   />
 </div>  
@@ -29,31 +29,31 @@
 
 <div align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pyfabricops&theme=catppuccin_latte&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pyfabricops&theme=nord&hide_border=true" 
     alt="Top Repositories"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pyfabricops-examples&theme=catppuccin_latte&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pyfabricops-examples&theme=nord&hide_border=true" 
     alt="Top Repositories"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-docs&theme=catppuccin_latte&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-docs&theme=nord&hide_border=true" 
     alt="Top Repositories"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-ci-cd-isv-multi-tenant&theme=catppuccin_latte&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-ci-cd-isv-multi-tenant&theme=nord&hide_border=true" 
     alt="Top Repositories"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=power_bi_projects_workflow&theme=catppuccin_latte&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=power_bi_projects_workflow&theme=nord&hide_border=true" 
     alt="Top Repositories"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendar&theme=catppuccin_latte&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendar&theme=nord&hide_border=true" 
     alt="Top Repositories"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=useful-snippets&theme=catppuccin_latte&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=useful-snippets&theme=nord&hide_border=true" 
     alt="Top Repositories"
   />
 </div>
