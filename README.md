@@ -17,46 +17,21 @@
 ## 📊 My Stats  
 
 <div align="left" style="display: flex; flex-direction: row; gap: 10px;">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=nord&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph"  
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=true&layout=compact&theme=nord&langs_count=10&hide_border=true&order=2&hide=roff,Batchfile&card_width=800" 
-    alt="languages graph"
-  />
+  <a href="https://github.com/alisonpezzott"><img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=nord&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph" /></a>
+  <a href="https://github.com/alisonpezzott"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=true&layout=compact&theme=nord&langs_count=10&hide_border=true&order=2&hide=roff,Batchfile&card_width=800" alt="languages graph" /></a>
 </div>  
 
 ## ⭐ Top Repositories
 
 <div align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pyfabricops&theme=nord&hide_border=true" 
-    alt="Top Repositories"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pyfabricops-examples&theme=nord&hide_border=true" 
-    alt="Top Repositories"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-docs&theme=nord&hide_border=true" 
-    alt="Top Repositories"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-ci-cd-isv-multi-tenant&theme=nord&hide_border=true" 
-    alt="Top Repositories"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=power_bi_projects_workflow&theme=nord&hide_border=true" 
-    alt="Top Repositories"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendar&theme=nord&hide_border=true" 
-    alt="Top Repositories"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=useful-snippets&theme=nord&hide_border=true" 
-    alt="Top Repositories"
-  />
-</div>
+  <a href="https://github.com/alisonpezzott/pyfabricops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pyfabricops&theme=nord&hide_border=true" /></a>
+  <a href="https://github.com/alisonpezzott/pyfabricops-examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pyfabricops-examples&theme=nord&hide_border=true" /></a>
+  <a href="https://github.com/alisonpezzott/pbi-docs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-docs&theme=nord&hide_border=true" /></a>
+  <a href="https://github.com/alisonpezzott/pbi-ci-cd-isv-multi-tenant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-ci-cd-isv-multi-tenant&theme=nord&hide_border=true" /></a>
+  <a href="https://github.com/alisonpezzott/power_bi_projects_workflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=power_bi_projects_workflow&theme=nord&hide_border=true" /></a>
+  <a href="https://github.com/alisonpezzott/calendar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendar&theme=nord&hide_border=true" /></a>
+  <a href="https://github.com/alisonpezzott/useful-snippets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=useful-snippets&theme=nord&hide_border=true" /></a>
+</div>  
 
 ## 🎥 Recent Videos  
 
