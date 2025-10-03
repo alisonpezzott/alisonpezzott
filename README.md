@@ -29,6 +29,7 @@
   <a href="https://github.com/alisonpezzott/pbi-docs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-docs&theme=nord&hide_border=true" /></a>
   <a href="https://github.com/alisonpezzott/pbi-ci-cd-isv-multi-tenant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-ci-cd-isv-multi-tenant&theme=nord&hide_border=true" /></a>
   <a href="https://github.com/alisonpezzott/power_bi_projects_workflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=power_bi_projects_workflow&theme=nord&hide_border=true" /></a>
+  <a href="https://github.com/alisonpezzott/calendario-sql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendario-sql&theme=nord&hide_border=true" /></a>
   <a href="https://github.com/alisonpezzott/calendar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendar&theme=nord&hide_border=true" /></a>
   <a href="https://github.com/alisonpezzott/useful-snippets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=useful-snippets&theme=nord&hide_border=true" /></a>
 </div>  
