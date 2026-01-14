@@ -4,14 +4,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/alisonpezzott)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/sJTDvWz9sM)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/alisonpezzott)  
-
-## About me  
-
-<div align="left">
-  <a href="https://mvp.microsoft.com/pt-BR/MVP/profile/807db423-418d-4c8d-bb59-08732cdbbf34" target="_blank" rel="noreferrer"><img src="assets/mvp.png"  width="200" height="80" alt="Microsoft MVP" /></a>
-  <a href="https://learn.microsoft.com/en-us/users/alisonpezzott-4199/transcript" target="_blank" rel="noreferrer"><img src="assets/mct.png"  width="80" height="80" alt="Microsoft Certified Trainer" /></a>
-</div>
-
-> ### I'm a Brazilian data professional passionate about Microsoft technologies, data engineering and analytics. My mission is to democratize knowledge about Microsoft Fabric and Power BI with simplicity, depth, and clarity, sharing practical and real-world solutions.
- 
-
+[![MVP](assets/mvp.png)](https://mvp.microsoft.com/pt-BR/MVP/profile/807db423-418d-4c8d-bb59-08732cdbbf34)  
+[![MCT](assets/mct.png)](https://learn.microsoft.com/en-us/users/alisonpezzott-4199/transcript)  
