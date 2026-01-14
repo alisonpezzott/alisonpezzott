@@ -4,5 +4,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/alisonpezzott)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/sJTDvWz9sM)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/alisonpezzott)  
-[![MVP](assets/mvp.png)](https://mvp.microsoft.com/pt-BR/MVP/profile/807db423-418d-4c8d-bb59-08732cdbbf34)  
-[![MCT](assets/mct.png)](https://learn.microsoft.com/en-us/users/alisonpezzott-4199/transcript)  
+[![MVP](assets/mvp.png)](https://mvp.microsoft.com/pt-BR/MVP/profile/807db423-418d-4c8d-bb59-08732cdbbf34)
+[![MCT](assets/mct.png)](https://learn.microsoft.com/en-us/users/alisonpezzott-4199/transcript)
