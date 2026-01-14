@@ -14,44 +14,4 @@
 
 > ### I'm a Brazilian data professional passionate about Microsoft technologies, data engineering and analytics. My mission is to democratize knowledge about Microsoft Fabric and Power BI with simplicity, depth, and clarity, sharing practical and real-world solutions.
  
-## 📊 My Stats  
 
-<div align="left" style="display: flex; flex-direction: row; gap: 10px;">
-  <a href="https://github.com/alisonpezzott"><img align="top" src="https://github-readme-stats.vercel.app/api?username=alisonpezzott&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=nord&disable_animations=false&locale=en&hide_border=true&order=1" alt="stats graph" /></a>
-  <a href="https://github.com/alisonpezzott"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonpezzott&locale=en&hide_title=true&layout=compact&theme=nord&langs_count=10&hide_border=true&order=2&hide=roff,Batchfile&card_width=800" alt="languages graph" /></a>
-</div>  
-
-## ⭐ Top Repositories
-
-<div align="left">
-  <a href="https://github.com/alisonpezzott/pyfabricops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pyfabricops&theme=nord&hide_border=true" /></a>
-  <a href="https://github.com/alisonpezzott/pyfabricops-examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pyfabricops-examples&theme=nord&hide_border=true" /></a>
-  <a href="https://github.com/alisonpezzott/pbi-docs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-docs&theme=nord&hide_border=true" /></a>
-  <a href="https://github.com/alisonpezzott/pbi-ci-cd-isv-multi-tenant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-ci-cd-isv-multi-tenant&theme=nord&hide_border=true" /></a>
-  <a href="https://github.com/alisonpezzott/power_bi_projects_workflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=power_bi_projects_workflow&theme=nord&hide_border=true" /></a>
-  <a href="https://github.com/alisonpezzott/calendario-sql"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendario-sql&theme=nord&hide_border=true" /></a>
-  <a href="https://github.com/alisonpezzott/calendar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendar&theme=nord&hide_border=true" /></a>
-  <a href="https://github.com/alisonpezzott/useful-snippets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=useful-snippets&theme=nord&hide_border=true" /></a>
-</div>  
-
-## 🎥 Recent Videos  
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Combine CSV e XLSX do SharePoint no Microsoft Fabric utilizando Shortcuts com notebook incremental!](https://ytcards.demolab.com/?id=GX_JH9q-v38&title=Combine+CSV+e+XLSX+do+SharePoint+no+Microsoft+Fabric+utilizando+Shortcuts+com+notebook+incremental%21&lang=en&timestamp=1767697100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "Combine CSV e XLSX do SharePoint no Microsoft Fabric utilizando Shortcuts com notebook incremental!")](https://www.youtube.com/watch?v=GX_JH9q-v38)
-[![Azure Databricks Mirroring Microsoft Fabric](https://ytcards.demolab.com/?id=ArOllixEzMw&title=Azure+Databricks+Mirroring+Microsoft+Fabric&lang=en&timestamp=1767176679&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "Azure Databricks Mirroring Microsoft Fabric")](https://www.youtube.com/watch?v=ArOllixEzMw)
-[![SQL Server 2016-2022 Mirroring on Microsoft Fabric](https://ytcards.demolab.com/?id=YtCOvu9PJpc&title=SQL+Server+2016-2022+Mirroring+on+Microsoft+Fabric&lang=en&timestamp=1765879403&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "SQL Server 2016-2022 Mirroring on Microsoft Fabric")](https://www.youtube.com/watch?v=YtCOvu9PJpc)
-[![SQL Server 2025 Mirroring on Microsoft Fabric](https://ytcards.demolab.com/?id=KoPgI0hiJL4&title=SQL+Server+2025+Mirroring+on+Microsoft+Fabric&lang=en&timestamp=1764064827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "SQL Server 2025 Mirroring on Microsoft Fabric")](https://www.youtube.com/watch?v=KoPgI0hiJL4)
-[![Novos calendários no Power BI - O que muda? - Com Diego Scalioni](https://ytcards.demolab.com/?id=m4KM0yim0mo&title=Novos+calend%C3%A1rios+no+Power+BI+-+O+que+muda%3F+-+Com+Diego+Scalioni&lang=en&timestamp=1763470302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "Novos calendários no Power BI - O que muda? - Com Diego Scalioni")](https://www.youtube.com/watch?v=m4KM0yim0mo)
-[![Segredos do Azure Key Vault no Microsoft Fabric com Notebook](https://ytcards.demolab.com/?id=GPuUe1vMSNQ&title=Segredos+do+Azure+Key+Vault+no+Microsoft+Fabric+com+Notebook&lang=en&timestamp=1762168374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "Segredos do Azure Key Vault no Microsoft Fabric com Notebook")](https://www.youtube.com/watch?v=GPuUe1vMSNQ)
-<!-- END YOUTUBE-CARDS -->
-
-
-## 📝 Recent Articles  
-
-[Manipulating a Delta Table in a Lakehouse (Disconnected from Notebook) Using Python (Not PySpark) in Microsoft Fabric](https://www.linkedin.com/pulse/manipulating-delta-table-lakehouse-disconnected-from-notebook-alison-jfyyf/?trackingId=UxsVtBhLTzeNzuYammFkrQ%3D%3D)  
-
-[Automating Power BI Documentation: Introducing PBI-DOCS](https://www.linkedin.com/pulse/automating-power-bi-documentation-introducing-pbi-docs-alison-pezzott-omvkf/?trackingId=QpgtJB2IQsuUEuajt7j%2BCw%3D%3D)  
-
-[CI/CD com Microsoft Fabric na prática | AzureDevOps | YAML | Fabric REST APIs](https://www.linkedin.com/pulse/cicd-com-microsoft-fabric-na-pr%25C3%25A1tica-azuredevops-yaml-alison-pezzott-clbrf/?trackingId=QpgtJB2IQsuUEuajt7j%2BCw%3D%3D)  
-
-[Explorando a Arquitetura Medallion com Microsoft Fabric](https://www.linkedin.com/pulse/explorando-arquitetura-medallion-com-microsoft-fabric-alison-pezzott-ptdjf/?trackingId=QpgtJB2IQsuUEuajt7j%2BCw%3D%3D)  
