@@ -1,6 +1,7 @@
 [![YouTube subscribers](https://img.shields.io/youtube/channel/subscribers/UCst_4Wi9DkGAc28uEPlHHHw?style=for-the-badge&logo=youtube&logoColor=ff0000&colorA=fff&colorB=3f4a5a)](https://www.youtube.com/@alisonpezzott?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/alisonpezzott?style=for-the-badge&logo=github&logoColor=000&colorA=fff&colorB=3f4a5a)](https://github.com/alisonpezzott)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/alisonpezzott)
+[![Blog](https://img.shields.io/badge/WordPress-0A0A0A?style=for-the-badge&logo=Wordpress&logoColor=white)](https://alisonpezzott.com.br/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/alisonpezzott)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/sJTDvWz9sM)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/alisonpezzott)  
