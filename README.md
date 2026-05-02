@@ -22,11 +22,11 @@
 </div>
 
 - 🏆 **Microsoft MVP Data Platform**  & **Microsoft Certified Trainer (MCT)**;
-- 🏢 Head of BI & Analytics at **⚡[Power Tuning]("https://www.linkedin.com/company/sou-powertuning")**;
+- 🏢 Head of BI & Analytics at **[Power Tuning](https://www.linkedin.com/company/sou-powertuning/posts/?feedView=all)**;
 - 📊 Expert in **Microsoft Fabric**, **Power BI**, **DAX**, **Power Query M**, **CI/CD Pipelines**;
 - 🐍 Creator of **[pyfabricops](https://github.com/alisonpezzott/pyfabricops)** — Python wrapper for Fabric & Power BI REST APIs;
 - 🎥 **[YouTuber](https://www.youtube.com/@alisonpezzott?sub_confirmation=1)** sharing hands-on content about Microsoft data tools;
-- 💬 Active speaker techinical community **[events]("https://github.com/alisonpezzott/community-contributions-20250401-20260331")**.
+- 💬 Active speaker techinical community **[events](https://github.com/alisonpezzott/community-contributions-20250401-20260331)**.
 
 <div align="left">
     <a
