@@ -22,7 +22,7 @@
 </div>
 
 - 🏆 **Microsoft MVP Data Platform**  & **Microsoft Certified Trainer (MCT)**;
-- 🏢 Head of BI & Analytics at **[⚡Power Tuning]("https://www.linkedin.com/company/sou-powertuning/")**;
+- 🏢 Head of BI & Analytics at **[⚡Power Tuning]("https://www.linkedin.com/company/sou-powertuning")**;  
 - 📊 Expert in **Microsoft Fabric**, **Power BI**, **DAX**, **Power Query M**, **CI/CD Pipelines**;
 - 🐍 Creator of **[pyfabricops](https://github.com/alisonpezzott/pyfabricops)** — Python wrapper for Fabric & Power BI REST APIs;
 - 🎥 **[YouTuber](https://www.youtube.com/@alisonpezzott?sub_confirmation=1)** sharing hands-on content about Microsoft data tools;
