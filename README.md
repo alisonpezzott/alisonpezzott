@@ -1,163 +1,36 @@
-### Hello there 👋🏼
+<a href="https://www.youtube.com/@alisonpezzott?sub_confirmation=1">
+  <img src="assets/banner.png" alt="Alison Pezzott: simples, profundo e didático. 2x Microsoft MVP in Data Platform, Microsoft Certified Trainer and Head of BI & Analytics at Power Tuning" width="100%">
+</a>
 
-> *"My mission is to democratize knowledge on Microsoft Fabric and Power BI with simplicity, depth and didactics, sharing practical, real-life solutions."*
+## About
 
-<div align="left">
-    <a
-        href="https://mvp.microsoft.com/pt-BR/MVP/profile/807db423-418d-4c8d-bb59-08732cdbbf34">
-        <img
-            height="60"
-            src="assets/mvp.png"
-            alt="MVP Badge"
-        />
-    </a>
-    <a
-        href="https://learn.microsoft.com/en-us/users/alisonpezzott-4199/transcript">
-        <img
-            height="60"
-            src="assets/mct.png"
-            alt="MCT Badge"
-        />
-    </a>
-</div>
+- **[Microsoft MVP, Data Platform](https://mvp.microsoft.com/pt-BR/MVP/profile/807db423-418d-4c8d-bb59-08732cdbbf34)** and **[Microsoft Certified Trainer (MCT)](https://learn.microsoft.com/en-us/users/alisonpezzott-4199/transcript)**
+- Head of BI & Analytics at **[Power Tuning](https://www.linkedin.com/company/sou-powertuning/)**
+- Creator of **[pyfabricops](https://github.com/alisonpezzott/pyfabricops)**, a Python wrapper for the Fabric & Power BI REST APIs
+- Sharing hands-on content on **[YouTube](https://www.youtube.com/@alisonpezzott?sub_confirmation=1)**: data architecture and engineering, BI, development and CI/CD, with real examples and demos
+- Speaker at technical community events
 
-- 🏆 **Microsoft MVP Data Platform**  & **Microsoft Certified Trainer (MCT)**;
-- 🏢 Head of BI & Analytics at **[Power Tuning](https://www.linkedin.com/company/sou-powertuning/posts/?feedView=all)**;
-- 📊 Expert in **Microsoft Fabric**, **Power BI**, **DAX**, **Power Query M**, **CI/CD Pipelines**;
-- 🐍 Creator of **[pyfabricops](https://github.com/alisonpezzott/pyfabricops)** — Python wrapper for Fabric & Power BI REST APIs;
-- 🎥 **[YouTuber](https://www.youtube.com/@alisonpezzott?sub_confirmation=1)** sharing hands-on content about Microsoft data tools;
-- 💬 Active speaker techinical community **[events](https://github.com/alisonpezzott/community-contributions-20250401-20260331)**.
+## Featured projects
 
-<div align="left">
-    <a
-        href="https://www.youtube.com/@alisonpezzott?sub_confirmation=1">
-        <img
-            height="25"
-            src="https://img.shields.io/youtube/channel/subscribers/UCst_4Wi9DkGAc28uEPlHHHw?style=for-the-badge&logo=youtube&logoColor=ff0000&colorA=fff&colorB=3f4a5a"
-            alt="Subscriber Badge"
-        />
-    </a>
-    <a
-        href="https://github.com/alisonpezzott">
-        <img
-            height="25"
-            src="https://img.shields.io/github/followers/alisonpezzott?style=for-the-badge&logo=github&logoColor=000&colorA=fff&colorB=3f4a5a"
-            alt="GitHub Followers Badge"
-        />
-    </a>
-    <a
-        href="https://linkedin.com/in/alisonpezzott">
-        <img
-            height="25"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge"
-            alt="Linkedin Badge"
-        />
-    </a>
-    <a
-        href="https://instagram.com/alisonpezzott">
-        <img
-            height="25"
-            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"
-            alt="Instagram Badge"
-        />
-    </a>
-    <a
-        href="https://alisonpezzott.com.br/">
-        <img
-            height="25"
-            src="https://img.shields.io/badge/WordPress-0A0A0A?style=for-the-badge&logo=Wordpress&logoColor=white"
-            alt="Blog Badge"
-        />
-    </a>
-    <a
-        href="https://t.me/alisonpezzott">
-        <img
-            height="25"
-            src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"
-            alt="Telegram Badge"
-        />
-    </a>
-    <a
-        href="https://discord.gg/sJTDvWz9sM">
-        <img
-            height="25"
-            src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge"
-            alt="Discord Badge"
-        />
-    </a>
+| Project | Description |
+| --- | --- |
+| [pyfabricops](https://github.com/alisonpezzott/pyfabricops) | Python wrapper for the Microsoft Fabric & Power BI REST APIs. |
+| [fabricopsflow](https://github.com/alisonpezzott/fabricopsflow) | CI/CD framework for end-to-end automation of Fabric projects, with Azure DevOps Pipelines and Service Principal authentication, powered by pyfabricops. |
+| [FabricOpsFlow-PBI-Pro](https://github.com/alisonpezzott/FabricOpsFlow-PBI-Pro) | FabricOpsFlow variant for Power BI Pro environments. |
+| [pbi-ci-cd-isv-multi-tenant](https://github.com/alisonpezzott/pbi-ci-cd-isv-multi-tenant) | Power BI CI/CD for ISV multi-tenant scenarios. |
+| [pbi-docs](https://github.com/alisonpezzott/pbi-docs) | Power BI documentation. |
+| [calendar](https://github.com/alisonpezzott/calendar) | Calendar (date) table for analytical models. |
+| [calendario-sql](https://github.com/alisonpezzott/calendario-sql) | Calendar (date) table in SQL. |
 
-</div>
+All repositories: [github.com/alisonpezzott?tab=repositories](https://github.com/alisonpezzott?tab=repositories&sort=stargazers)
 
----
+## Community
 
-### 📊 GitHub Stats
+Talks, events and contributions to the technical community, by Microsoft MVP award year:
 
-<div align="left">
-    <img
-        height="140"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alisonpezzott&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0078d4&icon_color=0078d4&text_color=a0b4c8&ring_color=0078d4"
-    />
-    <img
-        height="140"
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alisonpezzott&layout=compact&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=a0b4c8&langs_count=8"
-    />
-    <img
-        height="140"
-        src="https://github-readme-streak-stats.herokuapp.com?user=alisonpezzott&hide_border=true&background=0d1117&ring=0078d4&fire=ff6b6b&currStreakLabel=0078d4&sideLabels=a0b4c8&dates=a0b4c8&sideNums=ffffff&currStreakNum=ffffff"
-    />
-</div>
+- [April 2026 – March 2027](https://github.com/alisonpezzott/community-contributions-20260401-20270331)
+- [April 2025 – March 2026](https://github.com/alisonpezzott/community-contributions-20250401-20260331)
 
----
+## Connect
 
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="Profile Trophy"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=alisonpezzott&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
----
-
-<details open>
-    <summary><h3>🚀 Featured Projects </h3></summary>
-    <p align="left">
-        <a href="https://github.com/alisonpezzott/pyfabricops"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pyfabricops&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=a0b4c8&icon_color=0078d4" alt="pyfabricops">
-        <a href="https://github.com/alisonpezzott/fabricopsflow"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=fabricopsflow&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=a0b4c8&icon_color=0078d4" alt="fabricopsflow">
-        <a href="https://github.com/alisonpezzott/FabricOpsFlow-PBI-Pro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=FabricOpsFlow-PBI-Pro&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=a0b4c8&icon_color=0078d4" alt="FabricOpsFlow-PBI-Pro">
-        <a href="https://github.com/alisonpezzott/pbi-docs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-docs&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=a0b4c8&icon_color=0078d4" alt="pbi-docs">
-        <a href="https://github.com/alisonpezzott/pbi-ci-cd-isv-multi-tenant"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=pbi-ci-cd-isv-multi-tenant&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=a0b4c8&icon_color=0078d4" alt="pbi-ci-cd-isv-multi-tenant">
-        <a href="https://github.com/alisonpezzott/calendario-sql"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendario-sql&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=a0b4c8&icon_color=0078d4" alt="calendario-sql">
-        <a href="https://github.com/alisonpezzott/calendar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=calendar&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=a0b4c8&icon_color=0078d4" alt="calendar">
-        <a href="https://github.com/alisonpezzott/community-contributions-20260401-20270331"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=community-contributions-20260401-20270331&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=a0b4c8&icon_color=0078d4" alt="community-contributions-20260401-20270331">
-        <a href="https://github.com/alisonpezzott/community-contributions-20250401-20260331"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alisonpezzott&repo=community-contributions-20250401-20260331&hide_border=true&bg_color=0d1117&title_color=0078d4&text_color=a0b4c8&icon_color=0078d4" alt="community-contributions-20250401-20260331">
-    </p>
-    <p align="left">
-        <a href="https://github.com/alisonpezzott?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-    </p>
-</details>
-
----
-
-<details open>
-    <summary><h3>📺 Latest YouTube Videos</h3></summary>
-      <!-- prettier-ignore-start -->
-<!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/shorts/A2r3pnAvsEU"><img src="https://ytcards.demolab.com/?id=A2r3pnAvsEU&title=N%C3%A3o+copie+o+meu+vault.+Copie+os+3+fundamentos.+%23shorts&lang=en&timestamp=1788435001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=121" alt="Não copie o meu vault. Copie os 3 fundamentos. #shorts" title="Não copie o meu vault. Copie os 3 fundamentos. #shorts"></a>
-<a href="https://www.youtube.com/shorts/GokpIdRC7Zw"><img src="https://ytcards.demolab.com/?id=GokpIdRC7Zw&title=Como+eu+trago+reposit%C3%B3rios+inteiros+pro+meu+vault+%23shorts&lang=en&timestamp=1788348610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=56" alt="Como eu trago repositórios inteiros pro meu vault #shorts" title="Como eu trago repositórios inteiros pro meu vault #shorts"></a>
-<a href="https://www.youtube.com/shorts/S1VVbWg7ES4"><img src="https://ytcards.demolab.com/?id=S1VVbWg7ES4&title=Suas+skills+do+Claude+Code+est%C3%A3o+carregando+%C3%A0+toa%3F+%23shorts&lang=en&timestamp=1788262216&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=114" alt="Suas skills do Claude Code estão carregando à toa? #shorts" title="Suas skills do Claude Code estão carregando à toa? #shorts"></a>
-<a href="https://www.youtube.com/watch?v=iNEan4DOZHM"><img src="https://ytcards.demolab.com/?id=iNEan4DOZHM&title=Claude+Code+para+Power+BI+e+Fabric%3A+o+Vault+de+skills+que+eu+uso+todo+dia&lang=en&timestamp=1788166032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1610" alt="Claude Code para Power BI e Fabric: o Vault de skills que eu uso todo dia" title="Claude Code para Power BI e Fabric: o Vault de skills que eu uso todo dia"></a>
-<a href="https://www.youtube.com/shorts/POPBFuvGvGo"><img src="https://ytcards.demolab.com/?id=POPBFuvGvGo&title=A+IA+n%C3%A3o+faz+milagre+com+dado+ruim%21&lang=en&timestamp=1784893175&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=57" alt="A IA não faz milagre com dado ruim!" title="A IA não faz milagre com dado ruim!"></a>
-<a href="https://www.youtube.com/watch?v=0oec-1s-T_Y"><img src="https://ytcards.demolab.com/?id=0oec-1s-T_Y&title=Criei+um+Fabric+App+com+2+Modelos+Sem%C3%A2nticos+usando+Rayfin&lang=en&timestamp=1783678122&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1375" alt="Criei um Fabric App com 2 Modelos Semânticos usando Rayfin" title="Criei um Fabric App com 2 Modelos Semânticos usando Rayfin"></a>
-<!-- END YOUTUBE-CARDS -->
-  <!-- prettier-ignore-end -->
-    <br><a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-</details>
-
----
+[YouTube](https://www.youtube.com/@alisonpezzott?sub_confirmation=1) · [LinkedIn](https://linkedin.com/in/alisonpezzott) · [Instagram](https://instagram.com/alisonpezzott)
