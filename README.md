@@ -21,6 +21,7 @@
 | [pbi-docs](https://github.com/alisonpezzott/pbi-docs) | Power BI documentation. |
 | [calendar](https://github.com/alisonpezzott/calendar) | Calendar (date) table for analytical models. |
 | [calendario-sql](https://github.com/alisonpezzott/calendario-sql) | Calendar (date) table in SQL. |
+| [useful-snippets](https://github.com/alisonpezzott/useful-snippets) | My general useful daily snippets |
 
 All repositories: [github.com/alisonpezzott?tab=repositories](https://github.com/alisonpezzott?tab=repositories&sort=stargazers)
 
