@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/@alisonpezzott?sub_confirmation=1">
-  <img src="assets/banner.png" alt="Alison Pezzott: simples, profundo e didático. 2x Microsoft MVP in Data Platform, Microsoft Certified Trainer and Head of BI & Analytics at Power Tuning" width="100%">
+  <img src="assets/banner.png" alt="Simples, profundo e didático. Data architecture and engineering, Business Intelligence, CI/CD. 2x Microsoft MVP in Data Platform" width="100%">
 </a>
 
 ## About
@@ -15,6 +15,12 @@
 | Project | Description |
 | --- | --- |
 | [pyfabricops](https://github.com/alisonpezzott/pyfabricops) | Python wrapper for the Microsoft Fabric & Power BI REST APIs. |
+|[pyfabricops-template](https://github.com/alisonpezzott/pyfabricops-template)|Template repository: deploy a Microsoft Fabric workspace to one workspace per environment with pyfabricops, from GitHub Actions or Azure DevOps.|
+
+## Old but gold  
+
+| Project | Description |
+| --- | --- |
 | [fabricopsflow](https://github.com/alisonpezzott/fabricopsflow) | CI/CD framework for end-to-end automation of Fabric projects, with Azure DevOps Pipelines and Service Principal authentication, powered by pyfabricops. |
 | [FabricOpsFlow-PBI-Pro](https://github.com/alisonpezzott/FabricOpsFlow-PBI-Pro) | FabricOpsFlow variant for Power BI Pro environments. |
 | [pbi-ci-cd-isv-multi-tenant](https://github.com/alisonpezzott/pbi-ci-cd-isv-multi-tenant) | Power BI CI/CD for ISV multi-tenant scenarios. |
