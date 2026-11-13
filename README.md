@@ -1,3 +1,7 @@
+<a href="https://www.youtube.com/@alisonpezzott?sub_confirmation=1">
+  <img src="assets/banner.png" alt="Alison Pezzott" width="100%">
+</a>
+
 ## About
 
 - **[Microsoft MVP Data Platform](https://mvp.microsoft.com/pt-BR/MVP/profile/807db423-418d-4c8d-bb59-08732cdbbf34)** and **[Microsoft Certified Trainer (MCT)](https://learn.microsoft.com/en-us/users/alisonpezzott-4199/transcript)**
